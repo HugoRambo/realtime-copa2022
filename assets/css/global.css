@@ -1,0 +1,14 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    height: 100vh;
+    background: linear-gradient(179.98deg, rgba(0, 0, 0, 0) 19.55%, #22DD7A 124.71%);
+}

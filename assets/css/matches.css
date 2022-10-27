@@ -1,0 +1,51 @@
+.matches {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    padding: 0 1rem;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.matches li {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    border: 1px solid #22DD7A;
+    border-radius: 1rem;
+    background-image: url('/assets/imgs/estadio-1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.schedule {
+    text-align: center;
+    margin: 0;
+}
+
+.teams {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.team {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0 1rem;
+    margin: 0;
+}
+
+.team img {
+    width: 24px;
+    margin: 0 .5rem;
+}
+
+.score {
+    font-size: 1.5rem;
+    margin: .5rem;
+}

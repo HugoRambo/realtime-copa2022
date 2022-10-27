@@ -1,0 +1,27 @@
+.emoji {
+    width: 150px;
+    z-index: 1;
+    position: fixed;
+    bottom: 0;
+    left: -180px;
+}
+
+@keyframes show {
+    0% {
+        left: -180px;
+    }
+
+    50% {
+        left: -30px;
+    }
+
+    100% {
+        left: -180px;
+    }
+}
+
+.emoji.show {
+    animation: ease-in-out;
+    animation-name: show;
+    animation-duration: 4s;
+}

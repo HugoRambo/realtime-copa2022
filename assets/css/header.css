@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0;
+    background-image: url('/assets/imgs/dio-star.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
