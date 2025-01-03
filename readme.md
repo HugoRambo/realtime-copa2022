@@ -25,7 +25,7 @@ App de partida:
 <br/><br/>
 
 <p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/89088581?v=4"/>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/89088581?v=4"/> RMZOGZI4JO
     <p>&nbsp&nbsp&nbspVitor Johansen Guerra <br>
     &nbsp&nbsp&nbsp<a href="https://github.com/vitorjguerra">GitHub</a>&nbsp;|&nbsp;
     <a href="hhttps://www.linkedin.com/in/v%C3%ADtor-johansen-guerra-8025bb21a/">LinkedIn</a>
