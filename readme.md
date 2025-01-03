@@ -1,4 +1,4 @@
-
+ rT1tlQNvQF
 # Aplicação em realtime para acompanhar os jogos da copa!
 
 Aplicação criada para apresentação em uma live da [DIO](https://www.dio.me/).
